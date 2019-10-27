@@ -4,14 +4,14 @@
 
 ### Webscraping
 
-[IMDB Webscraper](/IMDB%20Webscraper/README.md/)
+[IMDB Webscraper](/IMDB%20Webscraper/README.md)
 <img src="images/IMDP pic.jpg?raw=true"/>
 
 ---
 
 ### Business Intelligence
 
-[Plane Crash Executive Summary](/pdf/sample_presentation.pdf)
+[Plane Crash Executive Summary](/Plane%20Crash%20Executive%20Summary/README.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

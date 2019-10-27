@@ -22,6 +22,6 @@ list to go back and filter for these customers movies that they rated a 4 or 5. 
 and this is the list returned.
 
 ### Links
-[Jupyter Notebook](https://github.com/Lemonchasers/Lemonchasers.github.io/blob/master/IMDB%20Webscraper/DSC%20540%20Final%20Chase%20Lemons.ipynb)
+[Jupyter Notebook](https://github.com/Lemonchasers/Lemonchasers.github.io/blob/master/Netflix%20Recommended%20Movies/DSC%20630%20Final%20Code.ipynb)
 
 [Back](/Lemonchasers.github.io/Index.md)

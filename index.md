@@ -5,7 +5,7 @@
 ### Webscraping
 
 [IMDB Webscraper](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/IMDP pic.jpg?raw=true"/>
 
 ---
 

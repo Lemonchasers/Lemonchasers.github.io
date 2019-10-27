@@ -4,7 +4,7 @@
 
 ### Webscraping
 
-[IMDB Webscraper](Lemonchasers.github.io/IMDB%20Webscraper/README)
+[IMDB Webscraper](/Lemonchasers.github.io/IMDB%20Webscraper/README)
 
 <img src="images/IMDP pic.jpg?raw=true"/>
 
@@ -12,7 +12,7 @@
 
 ### Business Intelligence
 
-[Plane Crash Executive Summary](Lemonchasers.github.io/Plane%20Crash%20Executive%20Summary/README)
+[Plane Crash Executive Summary](/Lemonchasers.github.io/Plane%20Crash%20Executive%20Summary/README)
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -20,7 +20,7 @@
 
 ### Recommendation Model
 
-[Netflix Recommended Movies](Lemonchasers.github.io/Netflix%20Recommended%20Movies/README)
+[Netflix Recommended Movies](/Lemonchasers.github.io/Netflix%20Recommended%20Movies/README)
 
 <img src="images/Netflix.png?raw=true"/>
 

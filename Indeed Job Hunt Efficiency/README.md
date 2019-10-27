@@ -10,6 +10,8 @@ This project takes a resume and then indeed job requisition descriptions and com
 Then the results are placed into a power bi dashboard in order to make the job hunt more efficient. 
 
 ### Links
-[Jupyter Notebook](https://github.com/Lemonchasers/Lemonchasers.github.io/blob/master/IMDB%20Webscraper/DSC%20540%20Final%20Chase%20Lemons.ipynb)
+[Jupyter Notebook](https://github.com/Lemonchasers/Lemonchasers.github.io/blob/master/Indeed%20Job%20Hunt%20Efficiency/DSC%20680%20Assignment%207_1.ipynb)
+
+[Power BI Dashboard](https://github.com/Lemonchasers/Lemonchasers.github.io/blob/master/Indeed%20Job%20Hunt%20Efficiency/Job%20Search%20Dashboard.pbix)
 
 [Back](/Lemonchasers.github.io/Index.md)

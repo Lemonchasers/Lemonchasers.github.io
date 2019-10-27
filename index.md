@@ -5,6 +5,7 @@
 ### Webscraping
 
 [IMDB Webscraper](/IMDB%20Webscraper/README)
+
 <img src="images/IMDP pic.jpg?raw=true"/>
 
 ---
@@ -12,6 +13,7 @@
 ### Business Intelligence
 
 [Plane Crash Executive Summary](/Plane%20Crash%20Executive%20Summary/README)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -19,6 +21,7 @@
 ### Recommendation Model
 
 [Netflix Recommended Movies](/Netflix%20Recommended%20Movies/README)
+
 <img src="images/Netflix.png?raw=true"/>
 
 ---

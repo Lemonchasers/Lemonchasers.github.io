@@ -1,5 +1,5 @@
 # DSC-680-Portfolio
-#Recommendation Model
+# Recommendation Model
 
 The code found in this folder is for a recommendation model that was created
 in order to find a list of new movies for a customer based on how similar

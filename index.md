@@ -18,8 +18,8 @@
 
 ### Recommendation Model
 
-[Netflix Recommended Movies](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Netflix Recommended Movies](/Netflix%20Recommended%20Movies/README)
+<img src="images/Netflix.jpg?raw=true"/>
 
 ---
 

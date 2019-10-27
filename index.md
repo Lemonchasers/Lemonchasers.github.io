@@ -19,7 +19,7 @@
 ### Recommendation Model
 
 [Netflix Recommended Movies](/Netflix%20Recommended%20Movies/README)
-<img src="images/Netflix.jpg?raw=true"/>
+<img src="images/Netflix.png?raw=true"/>
 
 ---
 

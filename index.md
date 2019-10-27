@@ -1,10 +1,10 @@
-## Portfolio
+## Chase's Portfolio
 
 ---
 
-### Category Name 1 
+### BI
 
-[Project 1 Title](/sample_page)
+[Business Intelligence](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

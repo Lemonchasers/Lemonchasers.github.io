@@ -38,7 +38,7 @@
 
 [Indeed Job Hunt Efficiency](/Indeed%20Job%20Hunt%20Efficiency/README.md)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Indeed.png?raw=true"/>
 
 ---
 
@@ -46,7 +46,7 @@
 
 [Cosine Similarity and Jaccard Distance](/Cosine%20Similarity%20and%20Jaccard%20Distance/README.md)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/document%20similarity.png?raw=true"/>
 
 ---
 
@@ -54,7 +54,7 @@
 
 [EDA & Dodgers Marketing Solution](/EDA%20&%20Dodgers%20Marketing%20Solution/README.md)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dodgers.jpg?raw=true"/>
 
 ---
 
@@ -62,7 +62,7 @@
 
 [Collaborative Filtering Recommendations](/Collaborative%20Filtering%20Recommendations/README.md)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Jupyter%20Notebook.jpg?raw=true"/>
 
 ---
 
@@ -70,7 +70,7 @@
 
 [Introduction to Spark](/Introduction%20to%20Spark/README.md)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/spark.png?raw=true"/>
 
 ---
 
@@ -78,7 +78,7 @@
 
 [Python Vizualizations](/Python%20Vizualizations/README.md)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/python%20viz.jpg?raw=true"/>
 
 ---
 

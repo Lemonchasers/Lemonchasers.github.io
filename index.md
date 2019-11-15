@@ -20,7 +20,7 @@
 
 ### Recommendation Model
 
-[Netflix Recommended Movies](/Netflix%20Recommended%20Movies/README.md)
+[Netflix Recommended Movies](/Netflix_Recommended_Movies)
 
 <img src="images/Netflix.png?raw=true"/>
 
@@ -28,7 +28,7 @@
 
 ### Price Recommendations
 
-[New York Airbnb Pricing](/New%20York%20Airbnb%20Pricing/README.md)
+[New York Airbnb Pricing](/New_York_Airbnb_Pricing)
 
 <img src="images/airbnb.png?raw=true"/>
 
@@ -36,7 +36,7 @@
 
 ### Text Similarity and Business Intelligence
 
-[Indeed Job Hunt Efficiency](/Indeed%20Job%20Hunt%20Efficiency/README.md)
+[Indeed Job Hunt Efficiency](/Indeed_Job_Hunt_Efficiency)
 
 <img src="images/Indeed.png?raw=true"/>
 
@@ -44,7 +44,7 @@
 
 ### Document Similarity
 
-[Cosine Similarity and Jaccard Distance](/Cosine%20Similarity%20and%20Jaccard%20Distance/README.md)
+[Cosine Similarity and Jaccard Distance](/Cosine_Similarity_and_Jaccard_Distance)
 
 <img src="images/document%20similarity.png?raw=true"/>
 
@@ -52,7 +52,7 @@
 
 ### R, Python & Regression
 
-[EDA & Dodgers Marketing Solution](/EDA%20&%20Dodgers%20Marketing%20Solution/README.md)
+[EDA & Dodgers Marketing Solution](/EDA_&_Dodgers_Marketing_Solution)
 
 <img src="images/dodgers.jpg?raw=true"/>
 
@@ -60,7 +60,7 @@
 
 ### Interactive Jupyter Notebook
 
-[Collaborative Filtering Recommendations](/Collaborative%20Filtering%20Recommendations/README.md)
+[Collaborative Filtering Recommendations](/Collaborative_Filtering_Recommendations)
 
 <img src="images/Jupyter%20Notebook.jpg?raw=true"/>
 
@@ -68,7 +68,7 @@
 
 ### Spark
 
-[Introduction to Spark](/Introduction%20to%20Spark/README.md)
+[Introduction to Spark](/Introduction_to_Spark)
 
 <img src="images/spark.png?raw=true"/>
 
@@ -76,7 +76,7 @@
 
 ### Vizualizations
 
-[Python Vizualizations](/Python%20Vizualizations/README.md)
+[Python Vizualizations](/Python_Vizualizations)
 
 <img src="images/python%20viz.jpg?raw=true"/>
 

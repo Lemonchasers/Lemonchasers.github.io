@@ -4,7 +4,7 @@
 
 ### Webscraping
 
-[IMDB Webscraper](/IMDB%20Webscraper/)
+[IMDB Webscraper](/IMDB%20Webscraper/index.html)
 
 <img src="images/IMDP pic.jpg?raw=true"/>
 

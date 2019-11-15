@@ -21,7 +21,3 @@ In the previous paragraph I point out that I did a left join data transformation
 
 As a data scientist looking at this, I could run this script weekly whenever the page updates for the new weeks list of movies. Once I knew when this list gets updated, I could schedule this job to run to pull this data. If the web developers for this page changed it however, I would need to revisit my code in order to update any changes and to ensure it is pulling the right data.
 
-### Links
-[Jupyter Notebook](https://github.com/Lemonchasers/Lemonchasers.github.io/blob/master/IMDB%20Webscraper/DSC%20540%20Final%20Chase%20Lemons.ipynb)
-
-[Back](/Lemonchasers.github.io/Index.md)

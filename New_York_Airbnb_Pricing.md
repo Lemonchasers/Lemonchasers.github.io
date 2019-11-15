@@ -6,7 +6,6 @@ The code found in this folder is to show how one could utilize k nearest neighbo
 ### Summary
 The model in the jupyter Notebook has a function that requires the input of latitude, longitude, and then how many nearest neighbors you want to compare to. Then it returns an average price.
 
-### Links
-[Jupyter Notebook](https://github.com/Lemonchasers/Lemonchasers.github.io/blob/master/New%20York%20Airbnb%20Pricing/project%202.ipynb)
+---
 
-[Back](/Lemonchasers.github.io/Index.md)
+[Files](https://github.com/Lemonchasers/Lemonchasers.github.io/blob/master/New%20York%20Airbnb%20Pricing/)

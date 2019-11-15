@@ -30,7 +30,7 @@
 
 [New York Airbnb Pricing](/New%20York%20Airbnb%20Pricing/README.md)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/airbnb.png?raw=true"/>
 
 ---
 

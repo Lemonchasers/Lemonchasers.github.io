@@ -12,7 +12,7 @@
 
 ### Business Intelligence
 
-[Plane Crash Executive Summary](/Plane%20Crash%20Executive%20Summary/README.md)
+[Plane Crash Executive Summary](/Plane_Crash_Executive_Summary)
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 

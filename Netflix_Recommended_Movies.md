@@ -21,7 +21,6 @@ Then we loop through the customers pulling out the similar customers and put thi
 list to go back and filter for these customers movies that they rated a 4 or 5. Then we grab this list of movies
 and this is the list returned.
 
-### Links
-[Jupyter Notebook](https://github.com/Lemonchasers/Lemonchasers.github.io/blob/master/Netflix%20Recommended%20Movies/DSC%20630%20Final%20Code.ipynb)
+---
 
-[Back](/Lemonchasers.github.io/Index.md)
+[Files](https://github.com/Lemonchasers/Lemonchasers.github.io/blob/master/Netflix%20Recommended%20Movies/)

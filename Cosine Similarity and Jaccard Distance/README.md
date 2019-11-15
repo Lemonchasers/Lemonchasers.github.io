@@ -6,5 +6,5 @@ This was a challenge at the time because it was brand new working with text. I h
 further working with text at my work, but this was a great building block exercise for that.
 
 ### Summary
-This file is a building block for learning about jaccard distance and cosine similarity. This has gone on to be implemented in other project of mine.
+This file is a building block for learning about jaccard distance and cosine similarity. This has gone on to be implemented in other projects of mine.
 
